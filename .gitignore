@@ -28,3 +28,5 @@ build/Release
 node_modules
 .sass-cache
 *.css.map
+sass/.DS_Store
+.DS_Store
